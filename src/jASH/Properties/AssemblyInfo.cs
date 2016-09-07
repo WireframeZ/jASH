@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("jASH")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("WireframeZ.com")]
+[assembly: AssemblyCompany("WireframeZ.com & Streamhelper.com")]
 [assembly: AssemblyProduct("jASH")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright ©  2015 - 2016 by WireframeZ.com & Streamhelper.com")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
