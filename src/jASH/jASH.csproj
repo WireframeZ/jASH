@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{583E3F83-AB48-43C4-A8FE-344423D5954D}</ProjectGuid>
+    <ProjectGuid>{2963AB2F-749A-48FF-A07A-43C89F67AB77}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>jASH</RootNamespace>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jASH", "jASH\jASH.csproj", "{583E3F83-AB48-43C4-A8FE-344423D5954D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jASH", "jASH\jASH.csproj", "{2963AB2F-749A-48FF-A07A-43C89F67AB77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{583E3F83-AB48-43C4-A8FE-344423D5954D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{583E3F83-AB48-43C4-A8FE-344423D5954D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{583E3F83-AB48-43C4-A8FE-344423D5954D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{583E3F83-AB48-43C4-A8FE-344423D5954D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2963AB2F-749A-48FF-A07A-43C89F67AB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2963AB2F-749A-48FF-A07A-43C89F67AB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2963AB2F-749A-48FF-A07A-43C89F67AB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2963AB2F-749A-48FF-A07A-43C89F67AB77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
