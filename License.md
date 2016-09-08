@@ -1,4 +1,4 @@
-# WireframZ Public License 1.0
+# WireframeZ Public License 1.0
 
 Copyright(C) 2013-2016 Dennis Everts and Meik Jungfer
 
@@ -12,6 +12,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	1.	All modifications need to be published on the same license
 	2.	License and Copyright notice need to be shipped.
 3.	Commercial use:
-	1.	You’re allowed to use this application or it’s source code in a commercial environment.
+	1.	Youâ€™re allowed to use this application or itâ€™s source code in a commercial environment.
 	2.	You're not allowed to resell the application or it's source code.
 4.	This notice may not be removed or altered from any source distribution.
